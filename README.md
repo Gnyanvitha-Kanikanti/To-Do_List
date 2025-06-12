@@ -31,6 +31,7 @@ A simple, elegant, and responsive To-Do List web app built using **HTML**, **CSS
 ## 📁 File Structure
 
 📦todo-app/
+
 ├── index.html # Main HTML file
 
 ├── style.css # Styling (CSS)
